@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		0EE6739C1B45E3FA005840B5 /* BackProp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BackProp; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EE6739F1B45E3FA005840B5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		0EEE5AC71B4BDD6800DD1E0E /* BackProp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BackProp.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		0EE6739E1B45E3FA005840B5 /* BackProp */ = {
 			isa = PBXGroup;
 			children = (
+				0EEE5AC71B4BDD6800DD1E0E /* BackProp.png */,
 				0EE6739F1B45E3FA005840B5 /* main.swift */,
 			);
 			path = BackProp;
@@ -236,6 +238,7 @@
 				0EE673A51B45E3FA005840B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
